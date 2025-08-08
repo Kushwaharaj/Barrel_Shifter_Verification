@@ -32,20 +32,20 @@ Designed and verified a parameterized Barrel Shifter module capable of performin
 
 ---
 
-## 🖼️ Waveform & Tool Snapshots
 
 ## 🖼️ Waveform & Coverage Snapshots
 
 ### ✅ Simulation Waveform  
 **QuestaSim Output:**  
-![QuestaSim](docs/simulation_questasim.png)
+![Simulation](docs/simulation_questasim.png)
 
 ### ✅ Functional Coverage  
-**Shift Operations Coverage:**  
+**Coverage 1:**  
 ![Coverage 1](docs/functional_coverage1.png)
 
-**Corner Case/Full Functional Coverage:**  
+**Coverage 2:**  
 ![Coverage 2](docs/functional_coverage2.png)
+
 
 
 ---
